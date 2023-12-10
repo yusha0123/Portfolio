@@ -134,7 +134,7 @@ const projectArray = [
     link: "https://textbook-yusha.vercel.app/",
   },
   {
-    title: "TinyLink(MERN)",
+    title: "TinyLink",
     img_src: "assets/img/tinylink.jpeg",
     link: "https://tiny-link-yusha.vercel.app/",
   },
@@ -147,6 +147,11 @@ const projectArray = [
     title: "Discord Clone",
     img_src: "assets/img/discord-clone.png",
     link: "https://github.com/yusha0123/Discord-Clone/",
+  },
+  {
+    title: "Mail Dash",
+    img_src: "assets/img/mail.png",
+    link: "https://mail-dash-yusha.netlify.app/",
   },
 ];
 
