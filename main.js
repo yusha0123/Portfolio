@@ -136,7 +136,7 @@ const projectArray = [
   {
     title: "TinyLink",
     img_src: "assets/img/tinylink.jpeg",
-    link: "https://tiny-link-yusha.vercel.app/",
+    link: "https://tiny-link.fly.dev/",
   },
   {
     title: "Expense Tracker",
